@@ -1,3 +1,16 @@
+---
+Title: "Customer Churn Analysis"
+Author: "Syed Faizan"
+Description: "A comprehensive analysis of customer churn prediction using advanced machine learning techniques, addressing class imbalance and feature importance."
+Tags:
+  - Data Analysis
+  - Customer Churn
+  - Machine Learning
+  - Python
+  - Data Science
+License: "MIT"
+---
+
 # Customer Churn Analysis
 
 ![Customer Churn](https://github.com/SYEDFAIZAN1987/Customer-Churn/blob/main/Customer-Churn.png)
@@ -73,7 +86,7 @@ For a comprehensive understanding of the project, including detailed methodologi
 ---
 
 ## 🤝 Contributions & Feedback
-If you'd like to contribute, suggest improvements, or have any questions, feel free to open an issue or reach out!
+If you'd like to contribute, suggest improvements, or have any questions, feel free to open an issue and please reach out via [LinkedIn](https://www.linkedin.com/in/syed-faizan/)
 
 ---
 
