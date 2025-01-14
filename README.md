@@ -86,7 +86,7 @@ For a comprehensive understanding of the project, including detailed methodologi
 ---
 
 ## 🤝 Contributions & Feedback
-If you'd like to contribute, suggest improvements, or have any questions, feel free to open an issue and please reach out via [LinkedIn](https://www.linkedin.com/in/syed-faizan/)
+If you'd like to contribute, suggest improvements, or have any questions, feel free to open an issue and please reach out via [LinkedIn](https://www.linkedin.com/in/drsyedfaizanmd/)
 
 ---
 
